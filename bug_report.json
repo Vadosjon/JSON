@@ -1,1 +1,16 @@
+{
+  "Bug report"{
+    "issue title":"Button 'Products' is unclickable",
+    "priority":"Low",
+    "severity":"Blocked",
+    "environment":"Google Chrome",
+    "Steps"{
+      1:"Open main page",
+      2:"Scroll down to site navigation",
+      3:"Click 'Platforms' button"
+    "Excepted Result":"Redirect to capital.com/cfd-trading-app",
+    }
+  }
+}
+  
 
